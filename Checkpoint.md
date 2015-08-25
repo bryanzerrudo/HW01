@@ -5,3 +5,11 @@
 - Email: vaughn_villarico@yahoo.com
 - Favorite Game(s): Dragon Age: Inquisition, MGR: Revengeance, Saints Row IV, Dota 2
 - Class expectations: To understand how games are made
+
+- Name: Bryan Russell E. Zerrudo
+- Nickname: Bryan
+- Major: 3 BS MIS
+- Github: bryanzerrudo
+- Email: bryan_zerrudo@gmail.com
+- Favorite Games: 9 Hours 9 Persons 9 Doors, Ghost Trick, Dragon Nest, Dota 2, Monster Hunter, Final Fantasy
+- Class Expectations: To be challenging yet fulfilling
