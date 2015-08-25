@@ -5,3 +5,5 @@
 - Email: vaughn_villarico@yahoo.com
 - Favorite Game(s): Dragon Age: Inquisition, MGR: Revengeance, Saints Row IV, Dota 2
 - Class expectations: To understand how games are made
+
+-
